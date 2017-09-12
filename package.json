@@ -1,0 +1,27 @@
+{
+  "name": "ui-assets",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-logger-component": "^1.0.8",
+    "react-scripts": "1.0.10"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.18.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-dropzone": "^3.13.3",
+    "react-imgix": "^6.0.0",
+    "react-keyed-file-browser": "file:/Users/jonjo/ManyWho/GitHub/react-keyed-file-browser"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
